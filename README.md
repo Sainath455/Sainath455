@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Sainath
+- 👋 Hi there, I’m Sainath
 - 👀 I’m interested in Data Analytics, Machine Learning, Neural Networks
 - 🌱 I’m currently learning Data Visualization tools like Power BI and Tableau
 - 📫 How to reach me +4407721838375, sainath.spine7@gmail.com
